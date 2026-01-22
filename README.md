@@ -1,5 +1,9 @@
-# 👋 Hello Hyunggeun
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ab61ae&height=120&text=Hello%20hyunggeun&animation=&fontColor=000000&fontSize=50" />
+    </div>
+    <div style="text-align: left;">
+    
+    
 ---
 
 ##  Header
@@ -26,6 +30,7 @@
 ---
 
 ## 🛠️ 기술 스택
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ### 🌐 Network
 - TCP/IP, HTTP/HTTPS
