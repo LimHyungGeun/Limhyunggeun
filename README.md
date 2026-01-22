@@ -24,6 +24,7 @@
 ## 📜 Certifications
 - 네트워크관리사 2급
 - 정보처리기사
+- 운전면허자격증 1종보통
 
 ## 🏆 Awards & Activities
 - 제10회 특허기술 박람회 동상
