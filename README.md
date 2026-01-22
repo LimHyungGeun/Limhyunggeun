@@ -54,10 +54,31 @@
 <img src="https://img.shields.io/badge/Burp_Suite-EE7624?style=for-the-badge&logo=PortSwigger&logoColor=white">
 
 
-    
+<br>
 <br>
 
-### 🌐 Network
-- TCP/IP, HTTP/HTTPS
-- DNS, DHCP
-- OSI 7 Layer 개념 이해
+### 
+<table>
+  <tr>
+    <th>🌐 Network</th>
+    <th>🔒 Security</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><b>TCP/IP, HTTP/HTTPS</b><br>네트워크 통신 프로토콜과 웹 통신 이해</li>
+        <li><b>DNS, DHCP</b><br>도메인 이름 해석, IP 주소 자동 할당 이해</li>
+        <li><b>OSI 7 Layer 개념 이해</b><br>네트워크 계층 구조 및 역할 파악</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><b>Firewall (방화벽)</b><br>내부/외부 네트워크 트래픽 제어 및 접근 제한</li>
+        <li><b>IDS / IPS</b><br>침입 탐지(IDS) 및 침입 방지(IPS) 시스템 이해</li>
+        <li><b>DDoS 대응</b><br>분산 서비스 거부 공격 탐지 및 방어 전략 이해</li>
+        <li><b>APT (Advanced Persistent Threat)</b><br>지능형 지속 위협 공격 개념 및 방어 기법 이해</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
