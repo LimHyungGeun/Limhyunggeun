@@ -5,7 +5,7 @@
     
 > "너 자신을 알라 (Γνῶθι σεαυτόν)"
 
-##  About me
+## ✨About me
 
 
 네트워크와 클라우드 환경에서의 **안정적인 서비스 운영**과  
@@ -36,7 +36,7 @@
 
 <br>
 
-##  희망 분야
+##  Desired Field
 - ☁️ **Cloud Engineering (AWS / GCP)**
 - 🌐 **Network Engineering**
 - 🖥️ **Infra & DevOps 기초**
