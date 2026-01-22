@@ -6,10 +6,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     
-    
----
-
-
  네트워크 · 클라우드 엔지니어를 목표로 성장 중  
  인프라와 시스템의 안정성을 고민하는 엔지니어
 
