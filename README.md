@@ -1,10 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=9854ab&height=120&text=I'm%20hyunggeun&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2e3e3,100:7090db&height=180&text=Hello,%20I'm%20Hyunggeun&animation=&fontColor=ffffff&fontSize=50" />
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
-    </div>
+    <div style="text-align: left;">
     
 > "너 자신을 알라 (Γνῶθι σεαυτόν)"
 
@@ -42,10 +39,16 @@
 - 🖥️ **Infra & DevOps 기초**
 
 
----
 
-## 🛠️ 기술 스택
+
+## 🛠️ Tech Stacks
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+    
 
 ### 🌐 Network
 - TCP/IP, HTTP/HTTPS
