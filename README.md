@@ -20,12 +20,14 @@
 - 부경대학교 정보통신공학전공
 
 <br>
+
 ## 📜 Certifications
 - 네트워크관리사 2급
 - 정보처리기사
 - 자동차운전면허증 1종보통
 
 <br>
+
 ## 🏆 Awards & Activities
 - 제10회 특허기술 박람회 동상
 - 제10회 ICT 대학생 논문경진대회 논문 등록
@@ -41,6 +43,7 @@
 
 
 <br>
+
 ## 🛠️ Tech Stacks
 <br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
@@ -50,6 +53,7 @@
 
     
 <br>
+
 ### 🌐 Network
 - TCP/IP, HTTP/HTTPS
 - DNS, DHCP
