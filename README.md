@@ -18,13 +18,16 @@
 -  서비스 흐름과 인프라 구조 이해를 중요하게 생각
 -  실습과 프로젝트 중심으로 역량 강화 중
 
+
 ## 🎓 Education
 - 부경대학교 정보통신공학전공
+
 
 ## 📜 Certifications
 - 네트워크관리사 2급
 - 정보처리기사
 - 자동차운전면허증 1종보통
+
 
 ## 🏆 Awards & Activities
 - 제10회 특허기술 박람회 동상
@@ -32,10 +35,12 @@
 
 
 
+
 ##  희망 분야
 - ☁️ **Cloud Engineering (AWS / GCP)**
 - 🌐 **Network Engineering**
 - 🖥️ **Infra & DevOps 기초**
+
 
 ---
 
