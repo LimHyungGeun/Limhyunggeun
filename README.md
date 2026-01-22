@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     
-
+> "너 자신을 알라 (Γνῶθι σεαυτόν)"
 
 ##  자기소개
 
