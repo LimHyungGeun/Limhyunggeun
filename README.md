@@ -5,7 +5,7 @@
     
 > "너 자신을 알라 (Γνῶθι σεαυτόν)"
 
-## ✨About me
+## About me
 
 
 네트워크와 클라우드 환경에서의 **안정적인 서비스 운영**과  
@@ -16,19 +16,19 @@
 -  실습과 프로젝트 중심으로 역량 강화 중
 <br>
 
-## 🎓 Education
+##  Education
 - 부경대학교 정보통신공학전공
 
 <br>
 
-## 📜 Certifications
+##  Certifications
 - 네트워크관리사 2급
 - 정보처리기사
 - 자동차운전면허증 1종보통
 
 <br>
 
-## 🏆 Awards & Activities
+##  Awards & Activities
 - 소장급 통신유공 표창
 - 제10회 특허기술 박람회 동상
 - 제10회 ICT 대학생 논문경진대회 논문 등록
@@ -36,16 +36,16 @@
 
 <br>
 
-## 📡 Desired Field
-- ☁️ **Cloud Engineering (AWS / GCP)**
-- 🌐 **Network Engineering**
-- 🖥️ **Infra & DevOps 기초**
+##  Desired Field
+-  **Cloud Engineering (AWS / GCP)**
+-  **Network Engineering**
+-  **Infra & DevOps 기초**
 
 
 
 <br>
 
-## 🛠️ Tech Stacks
+##  Tech Stacks
 <br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
@@ -60,8 +60,8 @@
 ### 
 <table>
   <tr>
-    <th>🌐 Network</th>
-    <th>🔒 Security</th>
+    <th> Network</th>
+    <th> Security</th>
   </tr>
   <tr>
     <td>
